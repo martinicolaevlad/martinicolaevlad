@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlad.
-- 👀 I’m interested in finding a job.
-- 🌱 I’m currently developing a Flutter based application for my BCs thesis.
+- 👀 I’m interested in making connections and building strong relationships with people.
+- 🌱 I’m currently a Consultancy Intern at Kinaxis in Cluj-Napoca.
 - 💞️ I’m looking to collaborate on any computer-science related projects for gaining experience.
 - 📫 How to reach me: https://www.linkedin.com/in/vlad-marti-04018a268/
 - 😂 Fun fact: My family name means "tuesday" in romanian .
